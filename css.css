@@ -1,0 +1,127 @@
+BODY {
+	MARGIN: 5px; COLOR: #000000; LINE-HEIGHT: 18px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #660000
+}
+TD {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: 18px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.b {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: 18px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.bw {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: 18px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.w {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: 18px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.dg {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: 18px; FONT-FAMILY: Verdana, Arial, Helvetica
+}
+.job {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: 18px; FONT-FAMILY: Verdana, Arial, Helvetica
+}
+.footer {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: 18px; FONT-FAMILY: Verdana, Arial, Helvetica
+}
+A:link {
+	COLOR: #990066; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #990066; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #990066; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #990066; TEXT-DECORATION: underline
+}
+A.w:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.w:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.w:active {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.w:hover {
+	COLOR: #FFCC33; TEXT-DECORATION: none
+}
+A.n:link {
+	COLOR: #777777; TEXT-DECORATION: none
+}
+A.n:visited {
+	COLOR: #777777; TEXT-DECORATION: none
+}
+A.n:active {
+	COLOR: #777777; TEXT-DECORATION: none
+}
+A.n:hover {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.o:link {
+	COLOR: #CC3333; TEXT-DECORATION: none
+}
+A.o:visited {
+	COLOR: #CC3333; TEXT-DECORATION: none
+}
+A.o:active {
+	COLOR: #CC3333; TEXT-DECORATION: none
+}
+A.o:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+A.menulink2 {
+display: block;
+width: 140px;
+height: 21px;
+text-align: center;
+text-decoration: none;
+font-family: Verdana;
+font-size:11px;
+color: #OOOOOO;
+BORDER: 0;
+padding: 2;
+}
+A.menulink2:hover {
+background:url(images/menu-bg1.jpg);
+color: #000000;
+}
+INPUT.text {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+SELECT {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.TNA {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: red; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+A.TNA:hover {
+	TEXT-DECORATION: none
+}
+.HeaderClass {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: black; FONT-FAMILY: Verdana
+}
+.TableHead {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: white; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #aec5d0
+}
+.BlackText {
+	FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: Verdana
+}
+.BlackLink {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: black; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+A.BlackLink:hover {
+	TEXT-DECORATION: underline
+}
+.GreenLink {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: green; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+A.GreenLink:hover {
+	TEXT-DECORATION: underline
+}
+INPUT {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-WIDTH: 1px; BORDER-BOTTOM-COLOR: black; COLOR: black; BORDER-TOP-COLOR: black; FONT-FAMILY: Arial; BORDER-RIGHT-WIDTH: 1px; BORDER-RIGHT-COLOR: black
+}
+
+
+
